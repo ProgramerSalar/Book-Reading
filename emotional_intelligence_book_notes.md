@@ -1,3 +1,5 @@
+# Book Emotional-intelligence
+link: https://donainfo.wordpress.com/wp-content/uploads/2017/09/emotional-intelligence-daniel-goleman.pdf
 
 Reading date: 15/07/2026
 
@@ -33,4 +35,3 @@ Reading date: 15/07/2026
 
 ---
 
-Reading Date: 22/07/2026
